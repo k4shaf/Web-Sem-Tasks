@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Programming for Everyone",
+        "address": "Somestreet 25, 12345 San Somewhere",
+        "date": "May 12, 2021",
+        "image": "https://cdn.britannica.com/30/199930-131-B3D1D347/computer.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Programming for Beginners",
+        "address": "SomeBlock 25, 2424 New York",
+        "date": "June 12, 2024",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6dWOTKc2D7S3BtjYDMp1RrT-fqgkyGG8Qjw&s"
+    },
+    {
+        "id": 3,
+        "title": "Programming for Seniors",
+        "address": "Street 25, 12345 Berlin",
+        "date": "August 30, 2021",
+        "image": "https://miro.medium.com/v2/resize:fit:1200/0*ojIU84VO1XMGIn6_.jpg"
+    }
+]
